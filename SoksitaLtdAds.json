@@ -1,7 +1,7 @@
 {
   "AppRedirect": {
-    "status"     : false,
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+    "status"     : true,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.Oraganise.Treize.SoksitaLtd"
   },
   
   
@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 15,
+      "NativeAdRow"        : 1,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "ca-app-pub-1043776732490279/1652162864",
-        "AdMobInterstitial"   : "ca-app-pub-1043776732490279/1269019486",
-        "AdMobNative"         : "ca-app-pub-1043776732490279/2651734984",
-        "AdMobOpenAd"         : "ca-app-pub-1043776732490279/7451284453",
+        "AdMobBanner"         : "",
+        "AdMobInterstitial"   : "",
+        "AdMobNative"         : "",
+        "AdMobOpenAd"         : "",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
